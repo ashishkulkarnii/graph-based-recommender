@@ -1,2 +1,2 @@
 # graph-based-recommender
- Semester 6: NAM Project. A recommender system using link prediction alogorithms and graph convolutional neural networks.
+ Semester 6: NAM Project. A recommender system using topology-based link prediction algorithms and graph convolutional neural networks.
